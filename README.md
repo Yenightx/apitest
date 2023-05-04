@@ -39,5 +39,5 @@ xxx
 打开命令行窗口，输入
 
 ```commandline
-pip install D:\kylib-0.2.8-py3-none-any.whl
+pip install D:\Zlib-0.2.8-py3-none-any.whl
 ```
