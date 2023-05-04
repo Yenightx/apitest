@@ -1,0 +1,15 @@
+test:
+    host: https://test-api-gw.964yx.com
+    login_uri: /itAdmin/front/v1/auth/loginByStaffNum
+    account: Y002165
+    password: ztx20sxmx
+    appId: 4m6BmtDs
+    appSecret: 735477bafe10bcae951a8c38a1ee83ed2cfc5879
+    nonceStr: ew2MDTcZ1
+
+
+
+logger:
+  name: apiTest
+  level: INFO
+  format: '%(filename)s-%(lineno)d-%(asctime)s-%(levelname)s-%(message)s'

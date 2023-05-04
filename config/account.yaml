@@ -1,0 +1,10 @@
+test:
+    teacher:
+      user: admin_system_rest
+      psw: 123456
+    CRM:
+      account_1: 18805907031
+      password_1: 123456
+
+
+
